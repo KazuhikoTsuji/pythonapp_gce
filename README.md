@@ -28,6 +28,9 @@ sudo python3 get-pip.py
 
 ```
 python3 --version
+```
+
+```
 pip3 --version
 ```
 
