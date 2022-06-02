@@ -9,11 +9,11 @@ sudo apt-get update
 ```
 
 ```
-sudo apt-get install git
+sudo apt-get install git -y
 ```
 
 ```
-sudo apt-get install python3-setuptools python3-dev build-essential
+sudo apt-get install python3-setuptools python3-dev build-essential -y
 ```
 
 ```
