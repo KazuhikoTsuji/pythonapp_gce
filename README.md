@@ -4,8 +4,8 @@
 
 ### Install software on the VM instance
 
-```
-$ sudo apt-get update
+```bash
+sudo apt-get update
 ```
 
 ```
